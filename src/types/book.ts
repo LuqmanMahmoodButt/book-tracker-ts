@@ -1,5 +1,3 @@
-import process = require("node:process");
-
 export type ReadingStatus = 'want_to_read' | 'currently_reading' | 'finished';
 
 
